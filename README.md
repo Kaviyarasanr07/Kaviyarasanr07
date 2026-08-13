@@ -16,8 +16,7 @@
 
 - 🔭 Full Stack Developer Intern @ **VDart Academy** — built and shipped modules for a real-time SIMS/LMS platform used by 200+ active users
 - 💻 Comfortable across the stack: Django REST Framework on the backend, React.js on the frontend
-- 🌱 Currently deepening my skills in **AWS**, **Docker**, and **Machine Learning**
-- 🎓 Pursuing an MCA at M.A.M Business School, Trichy (Anna University)
+- 🎓 Completed on my MCA at M.A.M Business School, Trichy (Anna University)
 - ⚡ Fun fact: one of my API optimizations cut page-load time by 30%
 
 ---
